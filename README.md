@@ -44,7 +44,7 @@ I'm currently working on developing leadership skills, team building, product ma
 **Misc**
 
 - The Lord of the Rings
-- Paradise Lost]()
+- Paradise Lost
 - Journey to the Center of the Earth
 - Atomic Habits
 - Creativity, Inc.
