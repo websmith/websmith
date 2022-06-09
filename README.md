@@ -6,7 +6,7 @@ I've worked in web, marketing, design, and software engineering for the past 10 
 
 While I've worked with many languages over the years (PHP, Elm, C++, and more), I've recently focused more heavily on Javascript and JS based frameworks including React, Angular, Next.js, and, of course, everyone's favorite - Typescript.
 
-While I love to code, I'm equally as passionate about team development, documentation writing, code reviews, code pairing, and strategic planning.
+While I love to code, I'm equally as passionate about team development, writing exceptional documentation, code reviews/pairing, and strategic planning.
 
 ## 🧮 Numbers and such
 
