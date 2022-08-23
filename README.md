@@ -10,7 +10,7 @@ While I love to code, I'm equally as passionate about team development, writing 
 
 ## 🧮 Numbers and such
 
-![websmith's github stats](https://github-readme-stats.vercel.app/api?username=websmith&count_private=true&show_icons=true&hide=contribs,stars&border_radius=10&hide_border=true&theme=blue-green)
+![websmith's github stats](https://github-readme-stats.vercel.app/api?username=websmith&count_private=false&show_icons=true&hide=contribs,stars&border_radius=10&hide_border=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=websmith&count_private=true&langs_count=6&layout=compact&border_radius=10&hide_border=true&theme=blue-green)
 
 ## 🔭 Aspirations
