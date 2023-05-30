@@ -8,10 +8,6 @@ While I've worked with many languages over the years (PHP, Elm, C++, and more), 
 
 While I love to code, I'm equally as passionate about team development, writing exceptional documentation, code reviews/pairing, and strategic planning.
 
-## 🧮 Numbers and such
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=websmith&count_private=true&langs_count=6&layout=compact&border_radius=10&hide_border=true&theme=blue-green)
-
 ## 🔭 Aspirations
 
 I'm currently working on developing leadership skills, team building, product management, and teaching/mentoring. Long-term, I'm working towards a Staff Engineer position.
