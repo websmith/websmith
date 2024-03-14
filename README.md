@@ -1,6 +1,6 @@
 # 👋 Hi friends, I'm Nate
 
-I'm a senior frontend engineer, UI/UX designer, and learner of things and stuff.
+I'm a senior engineering manager, UI/UX designer, and learner of things.
 
 I've worked in web, marketing, design, and software engineering for the past 10 years.
 
@@ -10,7 +10,7 @@ While I love to code, I'm equally as passionate about team development, writing 
 
 ## 🔭 Aspirations
 
-I'm currently working on developing leadership skills, team building, product management, and teaching/mentoring. Long-term, I'm working towards a Staff Engineer position.
+I'm currently working on developing leadership skills, team building, product management, and teaching/mentoring.
 
 ## 📚 My favorite reads
 
