@@ -2,7 +2,7 @@
 
 I'm a senior engineering manager, UI/UX designer, and learner of things.
 
-I've worked in web, marketing, design, and software engineering for the past 10 years.
+I've worked in web, marketing, design, and software engineering for the past 12 years.
 
 While I've worked with many languages over the years (PHP, Elm, C++, and more), I've recently focused more heavily on Javascript and JS based frameworks including React, Angular, Next.js, and, of course, everyone's favorite - Typescript.
 
